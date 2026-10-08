@@ -6,3 +6,5 @@ Začátek práce na projektu
 Běžný pracovní cyklus
 Synchronizace týmu
 Práce s větvemi
+
+Věta pro procvičení příkazu git pull
