@@ -1,5 +1,11 @@
+int number;
+
 Console.Write("Enter an integer: ");
-int number = int.Parse(Console.ReadLine()!);
+
+while (!int.TryParse(Console.ReadLine(), out number) )
+{
+    Console.Write("Invalid input. Try again: ");
+}
 
 int sum = 0;
 int multiple = 1;
