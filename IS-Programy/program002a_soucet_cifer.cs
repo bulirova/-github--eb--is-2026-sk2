@@ -9,6 +9,11 @@ if (number < 0 )
     number = number * -1;
 }
 
+if (number == 0)
+{
+    multiple = 0;
+}
+
 while (number > 0 )
 {
     int digit = number % 10;
