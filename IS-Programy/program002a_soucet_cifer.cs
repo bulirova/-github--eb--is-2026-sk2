@@ -4,6 +4,11 @@ int number = int.Parse(Console.ReadLine()!);
 int sum = 0;
 int multiple = 1;
 
+if (number < 0 )
+{
+    number = number * -1;
+}
+
 while (number > 0 )
 {
     int digit = number % 10;
