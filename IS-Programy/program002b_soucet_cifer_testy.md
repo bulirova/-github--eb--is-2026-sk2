@@ -11,5 +11,5 @@
 | abc | Retry input | - | PASS |
 
 
-správnost indentifikačních čísel (čásrové kódy)
+správnost indentifikačních čísel (čárové kódy)
 digitální kořen čísla (9875 -> 9+8+7+5 = 29)
